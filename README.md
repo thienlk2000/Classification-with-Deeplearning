@@ -37,4 +37,4 @@ I train model restnet and efficientnet on this animal dataset. Resnet has accura
 ![file](https://github.com/thienlk2000/Classification-with-Deeplearning/blob/main/images/img_test_efficient.png)
 
 Because I train the model from scratch, it is easily to be overfit with data. EfficienNet is a little better than ResNet.
-You can use data augmentation and fine-tuning a pre-trained network from ImageNet to have better result. 
+You can use data augmentation and fine-tuning a pre-trained network from ImageNet to have better result. You can gain 97% accuracy with fine-tune EfficienNet
